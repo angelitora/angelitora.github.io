@@ -71,6 +71,8 @@ params:
             #   url: tags/
             - name: Students
               url: students/
+            - name: News
+              url: news/
             - name: Resume
               url: RuizAngulo_CV_2024.pdf
             #- name: Archive
