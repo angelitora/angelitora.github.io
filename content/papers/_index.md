@@ -2,6 +2,7 @@
 title: "Papers"
 description: "Peer-review papers"
 ---
+### Peer-review papers:
 
 44. Yu-Sheng Sun, Diego Melgar, Ruiz-Angulo, Angel, Athanassios Ganas, Tuncay Taymaz, Brendan Crowell, Xiaohua Xu, Varvara Tsironi, Ilektra Karasante, Seda Yolsal-Çevikbilen, et al. The 2020 mw 7.0 samos (eastern aegean sea) earthquake: joint source inversion of multi-type data, and tsunami modeling. Geophysical Journal International, page ggae082, 2024
 43. Charly de Marez, Ruiz-Angulo, Angel, and Mathieu Le Corre. Structure of the bottom boundary current south of iceland and spreading of deep waters by submesoscale pro- cesses. Geophysical Research Letters, 51(5):e2023GL107508, 2024
@@ -48,5 +49,5 @@ in the Basin of Mexico City. Atmosphere, 10(10):628, 2019
 5. J.R. Pacheco, Ruiz-Angulo, A., R. Zenit, and R. Verzicco. Fluid velocity fluctuations in a collision of a sphere with a wall. Physics of Fluids, 23(6), 2011
 4. Ruiz-Angulo, A. and M.L. Hunt. Measurements of the coefficient of restitution for par- ticle collisions with ductile surfaces in a liquid. Granular Matter, 12(2):185–191, 2010
 3. N.M. Vriend, M.L. Hunt, R.W. Clayton, C.E. Brennen, K.S. Brantley, and Ruiz-Angulo, A. Reply to comment by B. Andreotti et al. on "Solving the mystery of booming sand dunes". Geophysical Research Letters, 35(8), 2008
-2. N.M. Vriend, M.L. Hunt, R.W. Clayton, C.E. Brennen, K.S. Brantley, and Ruiz-Angulo, A. Solving the mystery of booming sand dunes. Geophysical Research Letters, 34(16), 2007 1. Ruiz-Angulo, A. and M.L. Hunt. Surface deformation in a liquid environment resulting
-from single-particle collisions. AIChE Annual Meeting, Conference Proceedings, 2006
+2. N.M. Vriend, M.L. Hunt, R.W. Clayton, C.E. Brennen, K.S. Brantley, and Ruiz-Angulo, A. Solving the mystery of booming sand dunes. Geophysical Research Letters, 34(16), 2007 
+1. Ruiz-Angulo, A. and M.L. Hunt. Surface deformation in a liquid environment resultingfrom single-particle collisions. AIChE Annual Meeting, Conference Proceedings, 2006
