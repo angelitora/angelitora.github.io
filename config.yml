@@ -18,7 +18,7 @@ menu:
           url: students/
           weight: 2
         - name: Resume
-          url: cv_rosa.pdf
+          url: RuizAngulo_CV_2024.pdf
           weight: 3 
         # - name: Photography
         #   url: https://pmichaillat.substack.com
@@ -69,7 +69,7 @@ params:
             - name: Students
               url: students/
             - name: Resume
-              url: cv_rosa.pdf
+              url: RuizAngulo_CV_2024.pdf
             #- name: Archive
             #  url: archive/
     socialIcons:
