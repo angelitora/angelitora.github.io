@@ -76,18 +76,18 @@ params:
         # - name: CV
         #   url: cv_rosa.pdf
         - name: Email
-          url: mailto:rosa.van-den-ende@univ-paris1.fr
+          url: mailto:angel@hi.is
         - name: Location
           url: location/
     
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=jwrYE5sAAAAJ&hl=fr
+          url: https://scholar.google.com/citations?user=Lb1n85YAAAAJ&hl=en&oi=ao
         - name: LinkedIn
-          url: https://linkedin.com/in/rosavandenende
+          url: https://www.linkedin.com/in/angel-ruiz-angulo-1160a71/
         # - name: GitHub
         #   url: https://github.com/pmichaillat
         - name: ORCID
-          url: https://orcid.org/0000-0002-9417-1075
+          url: https://orcid.org/0000-0002-7292-3002
       
 
     assets:
