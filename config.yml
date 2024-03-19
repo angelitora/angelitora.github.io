@@ -51,10 +51,10 @@ params:
           enabled: true
           title: Angel Ruiz-Angulo
           subtitle: "associate professor university of Iceland"
-          imageUrl: "picture.jpg"
+          imageUrl: "angel-ito.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Rosa van den Ende
+          imageTitle: Angel Ruiz-Angulo
           buttons:
             - name: Publications
               url: papers/
@@ -66,8 +66,8 @@ params:
            #   url: https://pmichaillat.substack.com
             # - name: Tags
             #   url: tags/
-            - name: Talks
-              url: talks/
+            - name: Students
+              url: students/
             - name: Resume
               url: cv_rosa.pdf
             #- name: Archive
