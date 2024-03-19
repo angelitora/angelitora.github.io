@@ -1,4 +1,52 @@
 ---
 title: "Papers"
-description: "Preprints and articles on this website."
+description: "Peer-review papers"
 ---
+
+44. Yu-Sheng Sun, Diego Melgar, Ruiz-Angulo, Angel, Athanassios Ganas, Tuncay Taymaz, Brendan Crowell, Xiaohua Xu, Varvara Tsironi, Ilektra Karasante, Seda Yolsal-Çevikbilen, et al. The 2020 mw 7.0 samos (eastern aegean sea) earthquake: joint source inversion of multi-type data, and tsunami modeling. Geophysical Journal International, page ggae082, 2024
+43. Charly de Marez, Ruiz-Angulo, Angel, and Mathieu Le Corre. Structure of the bottom boundary current south of iceland and spreading of deep waters by submesoscale pro- cesses. Geophysical Research Letters, 51(5):e2023GL107508, 2024
+42. Claudia Inés Rivera-Cárdenas, Oscar E. Jurado, Ruiz-Angulo, Angel, and Josué Arel- lano. Mobile mini-doas measurements of the outflow of nitrogen dioxide from the toluca valley metropolitan area, mexico. Renewable energy, biomass amp; sustainability, 6(1):1–9, January 2024
+41. Erick R. Olvera-Prado, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efraín Moreles, and Ruiz-Angulo, Angel. Contribution of the wind, loop current eddies, and topogra- phy to the circulation in the southern gulf of mexico. Ocean Dynamics, 2023
+40. Sean R. Santellanes, Angel Ruiz-Angulo, and Diego Melgar. Tsunami waveform stack- ing and complex tsunami forcings from the hunga-tonga eruption. Pure and Applied Geo- physics, dec 2022
+39. Alejandra García-Madrigal, Angel Ruiz-Angulo, and Steffen Mischke. Intertidal ostra- coda from fossvogur and kópavogur bays (SW iceland): Diversity and distribution. Jour- nal of Sea Research, 190:102303, dec 2022
+38. Andrea Burgos-Cuevas, Adolfo Magaldi, David K. Adams, Michel Grutter, Jorge L. Gar- cía Franco, and Angel Ruiz-Angulo. Boundary layer height characteristics in mexico city from two remote sensing techniques. Boundary-Layer Meteorology, nov 2022
+37. AndreaBurgos-Cuevas,AngelRuiz-Angulo,CarlosAlbertoPalaciosMorales,KarinaRamos Musalem, and Cruz Daniel García Molina. Experimental downslope gravity currents over a synthetic topography. ATMÓSFERA, aug 2022
+36. Diego Melgar, Ruiz-Angulo, Angel, Brendan W. Crowell, Eric J. Fielding, and Ericka A. Solano-Hernandez. The Mechanisms of Tsunami Amplification and the Earthquake Source of the 2021 M 7 Acapulco, Mexico, Earthquake. Bulletin of the Seismological Society of Amer- ica, 09 2022
+35. JGC Pérez, E Pallàs-Sanz, M Tenreiro, T Meunier, Julien Jouanno, and Ruiz-Angulo, A. Overturning instabilities across a warm core ring from glider observations. Journal of Geophysical Research: Oceans, 127(4):e2021JC017527, 2022
+34. Mathieu Gentil, France Floc’h, Thomas Meunier, Ruiz-Angulo, Angel, Gildas Roudaut, Yannick Perrot, and Anne Lebourges-Dhaussy. Internal solitary waves on the nw african shelf: A heuristic approach to localize diapycnal mixing hotspots. Continental Shelf Re- search, page 104492, 2021
+33. Thomas Meunier, Enric Pallás Sanz, Charly de Marez, Juan Pérez, Miguel Tenreiro, Ruiz Angulo, Angel, and Amy Bower. The dynamical structure of a warm core ring as inferred from glider observations and along-track altimetry. Remote Sensing, 13(13):2456, 2021
+32. A. Burgos-Cuevas, D. K. Adams, J. L. Garcia-Franco, and A. Ruiz-Angulo. A Seasonal Climatology of the Mexico City Atmospheric Boundary Layer. Boundary-Layer Meteorol- ogy, pages 1–24, 2021
+31. Fenix Garcia-Tigreros, Mihai Leonte, Carolyn D. Ruppel, Angel Ruiz-Angulo, Dong Joo Joung, Benjamin Young, and John D. Kessler. Estimating the Impact of Seep Methane Ox- idation on Ocean pH and Dissolved Inorganic Radiocarbon Along the U.S. Mid-Atlantic Bight. Journal of Geophysical Research: Biogeosciences, 126(1), jan 2021
+30. EfraínMoreles,JorgeZavala-Hidalgo,BenjamínMartínez-López,andAngelRuiz-Angulo. Influence of stratification and Yucatan Current transport on the Loop Current Eddy shed- ding process. Journal of Geophysical Research: Oceans, nov 2020
+29. Diego Melgar, Ruiz-Angulo, Angel, Xyoli Pérez-Campos, Brendan W Crowell, Xiaohua Xu, Enrique Cabral-Cano, Michael R Brudzinski, and Luis Rodriguez-Abreu. Energetic Rupture and Tsunamigenesis during the 2020 Mw 7.4 La Crucecita, Mexico Earthquake. Seimological Research Letters, 10 2020
+28. Mihai Leonte, Carolyn D Ruppel, Ruiz-Angulo, Angel, and John D Kessler. Surface Methane Concentrations Along the Mid-Atlantic Bight Driven by Aerobic Subsurface Production Rather Than Seafloor Gas Seeps. Journal of Geophysical Research: Oceans, 125(5), 2020
+27. Ruiz-Angulo, Angel, Carolyn D. Ruppel, Gerald Hatcher, and John D. Kessler. Current velocities as a function of depth measured by lowered ADCP, LADCP, on the research vessel Hugh R. Sharp in the Mid-Atlantic Bight from 2017-08-26 to 2017-09-03 (NCEI Accession 0209236). NOAA National Centers for Environmental Information, Dataset, 2020
+26. Thomas Meunier, Julio Sheinbaum, Enric Pallàs-Sanz, Miguel Tenreiro, José Ochoa, An- gel Ruiz-Angulo, Xavier Carton, and Charly de Marez. Heat Content Anomaly and Decay of Warm-Core Rings: the Case of the Gulf of Mexico. Geophysical Research Letters, 47(3), feb 2020
+25. ErikaLópez-Espinoza,Ruiz-Angulo,Angel,JorgeZavala-Hidalgo,RosarioRomero-Centeno, and Josefina Escamilla-Salazar. Impacts of the Desiccated Lake System on Precipitation
+in the Basin of Mexico City. Atmosphere, 10(10):628, 2019
+
+24. Thomas Meunier, Enric Pallàs-Sanz Sanz, Miguel Tenreiro, José Ochoa, Ruiz-Angulo, Angel, and Christian Buckingham. Observations of Layering under a Warm-Core Ring in the Gulf of Mexico. Journal of Physical Oceanography, 49(12):3145–3162, 2019
+23. Ruiz-Angulo,A.,K.Jónsdóttir,R.H.Thrastarson,B.Halldorsson,V.Drouin,Grímsdóttir H., and S. Jónsson. Preliminary simulations for tsunami hazard in connection with a ma- jor earthquake on the Húsavík-Flatey fault. Proceedings to the Northquake 2019 workshop, Húsavík Academic Centre, pages 54–60, 2019
+22. Angel Ruiz-Angulo, Shahrzad Roshankhah, and Melany L. Hunt. Surface deformation and rebound for normal single-particle collisions in a surrounding fluid. Journal of Fluid Mechanics, 871:1044–1066, jun 2019
+21. Ruiz-Angulo, Angel, Shahrzad Roshankhah, and Melany L. Hunt. Coefficient of restitu- tion and dimensions of surface deformations for particle-wall collisions in various fluids: Dataset. CaltechDATA, 2018
+20. Diego Melgar, Angel Ruiz-Angulo, Emmanuel Soliman Garcia, Marina Manea, Vlad. C. Manea, Xiaohua Xu, M. Teresa Ramirez-Herrera, Jorge Zavala-Hidalgo, Jianghui Geng, Nestor Corona, Xyoli Pérez-Campos, Enrique Cabral-Cano, and Leonardo Ramirez-Guzmán. Deep embrittlement and complete rupture of the lithosphere during the Mw 8.2 Tehuan- tepec earthquake. Nature Geoscience, 11(12):955–960, oct 2018
+19. Diego Melgar and Angel Ruiz-Angulo. Long-Lived Tsunami Edge Waves and Shelf Resonance From the M8.2 Tehuantepec Earthquake. Geophysical Research Letters, nov 2018
+18. Vala Hjörleifsdóttir, H. S. Sánchez-Reyes, Angel Ruiz-Angulo, Maria Teresa Ramírez- Herrera, Rocio Castillo-Aja, Shri Krishna Singh, and Chen Ji. Was the 9 October 1995 Mw 8 Jalisco, Mexico, Earthquake a Near-Trench Event? Journal of Geophysical Research: Solid Earth, 123(10):8907–8925, oct 2018
+17. T.Meunier,E.Pallás-Sanz,M.Tenreiro,E.Portela,J.Ochoa,A.Ruiz-Angulo,andS.Cusí. The Vertical Structure of a Loop Current Eddy. Journal of Geophysical Research: Oceans, 123(9):6070–6090, sep 2018
+16. ThomasMeunier,M.Tenreiro,EnricPallàs-Sanz,JoseOchoa,AngelRuiz-Angulo,Esther Portela, Simò Cusí, Pierre Damien, and Xavier Carton. Intrathermocline Eddies Embed- ded Within an Anticyclonic Vortex Ring. Geophysical Research Letters, 45(15):7624–7633, aug 2018
+15. Esther Portela, M. Tenreiro, Enric Pallàs-Sanz, Thomas Meunier, Angel Ruiz-Angulo, Rosmery Sosa-Gutiérrez, and Simó Cusí. Hydrography of the Central and Western Gulf of Mexico. Journal of Geophysical Research: Oceans, 123(8):5134–5149, aug 2018
+14. M.T. Ramírez-Herrera, N. Corona, Ruiz-Angulo, A., D. Melgar, and J. Zavala-Hidalgo. The 8 September 2017 Tsunami Triggered by the Mw8.2 Intraplate Earthquake, Chiapas, Mexico. Pure and Applied Geophysics, 175(1):25–34, 2018
+13. B. Adriano, Y. Fujii, S. Koshimura, E. Mas, Ruiz-Angulo, A., and M. Estrada. Tsunami Source Inversion Using Tide Gauge and DART Tsunami Waveforms of the 2017 Mw8.2 Mexico Earthquake. Pure and Applied Geophysics, 175(1):35–48, 2018
+12. J.L. García-Franco, W. Stremme, A. Bezanilla, Ruiz-Angulo, A., and M. Grutter. Vari- ability of the Mixed-Layer Height Over Mexico City. Boundary-Layer Meteorology, pages 1–15, 2018
+11. NobuhitoMori,ArioMuhammad,KatsuichiroGoda,TomohiroYasuda,andRuiz-Angulo, Angel. Probabilistic tsunami hazard analysis of the pacific coast of Mexico: Case study based on the 1995 Colima earthquake tsunami. Frontiers in Built Environment, 3:34, 2017
+
+10. L. Díaz-Damacillo, Ruiz-Angulo, A., and R. Zenit. Drift by air bubbles crossing an inter- face of a stratified medium at moderate Reynolds number. International Journal of Multi- phase Flow, 85:258–266, 2016
+9. Ruiz-Angulo, A. and J. Zavala-Hidalgo. Internal wave observations in the Petacalco canyon, México. Environmental Science and Engineering (Subseries: Environmental Science), pages 203–213, 2016
+8. Ruiz-Angulo, A. and E.D. López-Espinoza. Estimation of the thermal response of the lake basin of the Valley of Mexico in the 16th century: A numerical experiment. Boletin de la Sociedad Geologica Mexicana, 67(2):215–225, 2015
+7. A.M. Thurnherr, E. Kunze, J.M. Toole, L. St. Laurent, K.J. Richards, and Ruiz-Angulo, A. Vertical kinetic energy and turbulent dissipation in the ocean. Geophysical Research Letters, 42(18):7639–7647, 2015
+6. Ruiz-Angulo, A. Some aspects of turbulence role in oceanic currents. Environmental Science and Engineering (Subseries: Environmental Science), Part F1:179–187, 2015
+5. J.R. Pacheco, Ruiz-Angulo, A., R. Zenit, and R. Verzicco. Fluid velocity fluctuations in a collision of a sphere with a wall. Physics of Fluids, 23(6), 2011
+4. Ruiz-Angulo, A. and M.L. Hunt. Measurements of the coefficient of restitution for par- ticle collisions with ductile surfaces in a liquid. Granular Matter, 12(2):185–191, 2010
+3. N.M. Vriend, M.L. Hunt, R.W. Clayton, C.E. Brennen, K.S. Brantley, and Ruiz-Angulo, A. Reply to comment by B. Andreotti et al. on "Solving the mystery of booming sand dunes". Geophysical Research Letters, 35(8), 2008
+2. N.M. Vriend, M.L. Hunt, R.W. Clayton, C.E. Brennen, K.S. Brantley, and Ruiz-Angulo, A. Solving the mystery of booming sand dunes. Geophysical Research Letters, 34(16), 2007 1. Ruiz-Angulo, A. and M.L. Hunt. Surface deformation in a liquid environment resulting
+from single-particle collisions. AIChE Annual Meeting, Conference Proceedings, 2006
