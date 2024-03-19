@@ -17,9 +17,12 @@ menu:
         - name: Students
           url: students/
           weight: 2
+        - name: News
+          url: news/
+          weight: 3
         - name: Resume
           url: RuizAngulo_CV_2024.pdf
-          weight: 3 
+          weight: 4
         # - name: Photography
         #   url: https://pmichaillat.substack.com
         #   weight: 4
