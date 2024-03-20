@@ -5,7 +5,9 @@ description: "not sure what to write here... "
 ---
 
 ### Postdocs:
-<p> - Charly de Marez. Project: "Characterization of mesoscale processes South of Iceland" <ahref="https://demarez.github.io/">Charly's website here</a> </p>
+<p> - Charly de Marez. Project: "Characterization of mesoscale processes South of Iceland" <ahref="https://demarez.github.io/">Charly's website here</a> 
+    <a href="https://rocangel.blogspot.com/">{{ lmex }}</a>
+    </p>
       
 ### Master Students: Currently active
 <p> - Audria F. Dennen, MSc student. Project: "Complex inversion layers in Ísafjarðardjúp".</p>
