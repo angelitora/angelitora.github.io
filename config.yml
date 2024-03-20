@@ -74,8 +74,8 @@ params:
            #   url: https://pmichaillat.substack.com
             # - name: Tags
             #   url: tags/
-            - name: Students
-              url: students/
+            - name: Group
+              url: group/
             - name: News
               url: news/
             - name: Resume
