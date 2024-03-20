@@ -26,7 +26,7 @@ description: "not sure what to write here... "
 <p> Amezcua Montiel, Abril,    Mezcla inducida por una columna de burbujas en un fluido estratificado :  un estudio experimental (2018). Currently: PhD Candidate at UNAM, Mexico </p> 
 <p> Pierard Manzano, Claudio Marcelo,    Coeficiente de ventilación en el Valle de México :  resultados numéricos y observaciones (2018). Currently: PhD candidate at Utrecht University. </p> 
 <p> Martínez Moreno, Josué,    Estudio numérico de la dispersión y el transporte en el Golfo de México asociado al aporte fluvial del Río Coatzacoalcos (2017). Currently: Postdoctoral Fellow at IFREMER, Brest, France</p> 
-<p> Zárate Jiménez, Luz Areli,    Validación de corrientes geostróficas en el Golfo de México (2015). Currently: Marine Technology Research Engineer at Shell. </p> 
+
 
 
 ### Former Interns 
