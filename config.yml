@@ -37,6 +37,7 @@ params:
     DateFormat: "March 2024"
     defaultTheme: light
     hideFooter: false
+    enableEmoji: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
