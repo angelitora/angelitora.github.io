@@ -59,10 +59,12 @@ params:
           imageHeight: 160
           imageTitle: Angel Ruiz-Angulo
           buttons:
+            - name: About me
+              url: aboutme/
             - name: Publications
               url: publications/
-            # - name: Courses
-            #   url: courses/
+            - name: Courses
+              url: courses/
             # - name: Data
             #   url: data/
            # - name: Newsletter
