@@ -18,7 +18,7 @@ menu:
           url: publications/
           weight: 2
         - name: Group
-          url: students/
+          url: group/
           weight: 3
         - name: News
           url: news/
@@ -66,8 +66,8 @@ params:
               url: aboutme/
             - name: Publications
               url: publications/
-            - name: Courses
-              url: courses/
+            #- name: Courses
+            #  url: courses/
             # - name: Data
             #   url: data/
            # - name: Newsletter
