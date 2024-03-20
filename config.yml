@@ -20,7 +20,7 @@ menu:
         - name: Group
           url: group/
           weight: 3
-        - name: News :hot_pepper:
+        - name: News
           url: news/
           weight: 4
         - name: Resume
