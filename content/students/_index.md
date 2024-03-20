@@ -1,6 +1,5 @@
 ---
 title: "Students"
-toc: false
 description: "not sure what to write here... "
 ---
 
