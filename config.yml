@@ -103,7 +103,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Angel Ruiz-Angulo"
-      icon: favicon.ico
+      icon: snail_maya.ico
       iconHeight: 18
 
 markup:
