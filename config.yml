@@ -14,7 +14,7 @@ menu:
         - name: Publications
           url: publications/
           weight: 1
-        - name: Students
+        - name: Group
           url: students/
           weight: 2
         - name: News
