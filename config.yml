@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Angel Ruiz-Angulo
-          subtitle: "associate professor university of Iceland"
+          subtitle: "I am an Associate Professor in Physical Oceanography at the University of Iceland"
           imageUrl: "angel-ito.png"
           imageWidth: 160
           imageHeight: 160
