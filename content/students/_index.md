@@ -2,6 +2,7 @@
 title: "Students"
 toc: false
 description: "not sure what to write here... "
+<p> Zárate Jiménez, Luz Areli,    Validación de corrientes geostróficas en el Golfo de México (2015). Currently: Marine Technology Research Engineer at Shell. </p> 
 ---
 
 ### Postdocs:
@@ -18,7 +19,7 @@ description: "not sure what to write here... "
 
 ### MSc
 <p> - Alexandra Líf Árnadóttir, Master's Degree in Science (M.Sc) in Environmental Science at University of Iceland. Thesis: "Seasonal variability of dissolved oxygen (O2) in Berufjörður" (2024). Advisors: Angel Ruiz-Angulo and Andreas Macrander.</p>
-<p> - Jessica Wilder, Master's Degree in Science (M.Sc) in Geology at University of Iceland. Thesis: "Generation of Húsavík-Flatey Fault Rupture Models and Simulations of a Subsequent Tsunami" (2023). Advisors: Angel Ruiz-Angulo and Diego Melgar</p>. Currently: Geologist at USGS. 
+<p> - Jessica Wilder, Master's Degree in Science (M.Sc) in Geology at University of Iceland. Thesis: "Generation of Húsavík-Flatey Fault Rupture Models and Simulations of a Subsequent Tsunami" (2023). Advisors: Angel Ruiz-Angulo and Diego Melgar. Currently: Geologist at USGS.</p> 
 <p> Jurado de Larios, Oscar Esli,    Sensibilidad de WRF ante condiciones iniciales y de frontera :  un estudio de caso en el Valle de México     (2017). Currently: Associate Consultant Sustainable Finance, South Pole. </p>    
 <p> Burgos Cuevas, Andrea,    Corrientes de gravedad en el Valle de México :  un estudio experimental (2016). Currently: Postdoctoral Researcher, University of Cologne, Germany. </p>   
 
@@ -26,9 +27,7 @@ description: "not sure what to write here... "
 <p> Amezcua Montiel, Abril,    Mezcla inducida por una columna de burbujas en un fluido estratificado :  un estudio experimental (2018). Currently: PhD Candidate at UNAM, Mexico </p> 
 <p> Pierard Manzano, Claudio Marcelo,    Coeficiente de ventilación en el Valle de México :  resultados numéricos y observaciones (2018). Currently: PhD candidate at Utrecht University. </p> 
 <p> Martínez Moreno, Josué,    Estudio numérico de la dispersión y el transporte en el Golfo de México asociado al aporte fluvial del Río Coatzacoalcos (2017). Currently: Postdoctoral Fellow at IFREMER, Brest, France</p> 
----
-<p> Zárate Jiménez, Luz Areli,    Validación de corrientes geostróficas en el Golfo de México (2015). Currently: Marine Technology Research Engineer at Shell. </p> 
----
+
 ## Former Interns 
 Icelandinc Meteorological Office
 Rakel María Ellingsen 
