@@ -77,7 +77,7 @@ params:
             #   url: tags/
             - name: Group
               url: group/
-            - name: News :hot_pepper:
+            - name: News 
               url: news/
             - name: Resume
               url: RuizAngulo_CV_2024.pdf
