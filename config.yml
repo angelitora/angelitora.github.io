@@ -20,7 +20,7 @@ menu:
         - name: Group
           url: group/
           weight: 3
-        - name: News
+        - name: News 🌶
           url: news/
           weight: 4
         - name: Resume
@@ -77,7 +77,7 @@ params:
             #   url: tags/
             - name: Group
               url: group/
-            - name: News
+            - name: News 🌶
               url: news/
             - name: Resume
               url: RuizAngulo_CV_2024.pdf
