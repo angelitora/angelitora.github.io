@@ -1,11 +1,11 @@
 ---
-title: "Papers"
+title: "Publications"
 description: "Peer-review papers"
 ---
 ### Peer-review papers:
 
-44. Yu-Sheng Sun, Diego Melgar, Ruiz-Angulo, Angel, Athanassios Ganas, Tuncay Taymaz, Brendan Crowell, Xiaohua Xu, Varvara Tsironi, Ilektra Karasante, Seda Yolsal-Çevikbilen, et al. The 2020 mw 7.0 samos (eastern aegean sea) earthquake: joint source inversion of multi-type data, and tsunami modeling. Geophysical Journal International, page ggae082, 2024
-43. Charly de Marez, Ruiz-Angulo, Angel, and Mathieu Le Corre. Structure of the bottom boundary current south of iceland and spreading of deep waters by submesoscale pro- cesses. Geophysical Research Letters, 51(5):e2023GL107508, 2024
+<p>  [44]   Yu-Sheng Sun, Diego Melgar, <b> Ruiz-Angulo, Angel, <b> Athanassios Ganas, Tuncay Taymaz, Brendan Crowell, Xiaohua Xu, Varvara Tsironi, Ilektra Karasante, Seda Yolsal-Çevikbilen, et al. The 2020 mw 7.0 samos (eastern aegean sea) earthquake: joint source inversion of multi-type data, and tsunami modeling. Geophysical Journal International, page ggae082, 2024 <p>
+<p> [43] Charly de Marez, <b> Ruiz-Angulo, Angel <b>, and Mathieu Le Corre. Structure of the bottom boundary current south of iceland and spreading of deep waters by submesoscale pro- cesses. Geophysical Research Letters, 2024 <p>
 42. Claudia Inés Rivera-Cárdenas, Oscar E. Jurado, Ruiz-Angulo, Angel, and Josué Arel- lano. Mobile mini-doas measurements of the outflow of nitrogen dioxide from the toluca valley metropolitan area, mexico. Renewable energy, biomass amp; sustainability, 6(1):1–9, January 2024
 41. Erick R. Olvera-Prado, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efraín Moreles, and Ruiz-Angulo, Angel. Contribution of the wind, loop current eddies, and topogra- phy to the circulation in the southern gulf of mexico. Ocean Dynamics, 2023
 40. Sean R. Santellanes, Angel Ruiz-Angulo, and Diego Melgar. Tsunami waveform stack- ing and complex tsunami forcings from the hunga-tonga eruption. Pure and Applied Geo- physics, dec 2022
