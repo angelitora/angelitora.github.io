@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Publications
-          url: papers/
+          url: publications/
           weight: 1
         - name: Students
           url: students/
@@ -60,7 +60,7 @@ params:
           imageTitle: Angel Ruiz-Angulo
           buttons:
             - name: Publications
-              url: papers/
+              url: publications/
             # - name: Courses
             #   url: courses/
             # - name: Data
