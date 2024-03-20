@@ -31,7 +31,7 @@ params:
     description: "I am an oceanographer/biker/baker."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "March 2024"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -117,3 +117,7 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+design:
+    background:
+        image:
+            filename: isotherms_4_10.png
