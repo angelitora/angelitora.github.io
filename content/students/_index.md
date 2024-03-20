@@ -5,8 +5,7 @@ description: "not sure what to write here... "
 ---
 
 ### Postdocs:
-<p> - Charly de Marez. Project: "Characterization of mesoscale processes South of Iceland" <ahref="https://demarez.github.io/">Charly's website here</a> 
-    <a href="https://rocangel.blogspot.com/">{{ lmex }}</a>
+<p> - Charly de Marez. Project: "Characterization of mesoscale processes South of Iceland". Personal website <a href="https://demarez.github.io/"> here </a> 
     </p>
       
 ### Master Students: Currently active
