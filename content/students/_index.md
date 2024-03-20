@@ -2,7 +2,6 @@
 title: "Students"
 toc: false
 description: "not sure what to write here... "
-<p> Zárate Jiménez, Luz Areli,    Validación de corrientes geostróficas en el Golfo de México (2015). Currently: Marine Technology Research Engineer at Shell. </p> 
 ---
 
 ### Postdocs:
