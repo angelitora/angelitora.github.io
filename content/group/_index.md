@@ -25,7 +25,6 @@ description: "not sure what to write here... "
 <p> Abril  Amezcua Montiel,     Mezcla inducida por una columna de burbujas en un fluido estratificado :  un estudio experimental (2018). Currently: PhD student in Marine Geology at Alfred Wegener Institut for Polar and Marine Research. </p> 
 <p> Claudio Marcelo Pierard Manzano,     Coeficiente de ventilación en el Valle de México :  resultados numéricos y observaciones (2018). Currently: PhD candidate at Utrecht University. </p> 
 <p> Josué Martínez Moreno,    Estudio numérico de la dispersión y el transporte en el Golfo de México asociado al aporte fluvial del Río Coatzacoalcos (2017). Currently: Postdoctoral Fellow at IFREMER, Brest, France. </p> 
-<p> A. Karnia Ramos Musalem,     Estudio de los forzamientos que generan la surgencia de Yucatán. (2013). Currently: Associate Professor in Physical Oceanography, CICESE. </p> 
 <p> Jorge Luis García Franco, Estudio sobre la evolución de la capa de mezcla en la Ciudad de México. (2016). Advisors: Michel Grutter de la Mora and Angel Ruiz-Angulo. Currently: Asistant Professor in the Escuela Nacional de Ciencias de la Tierra, UNAM. </p> 
 <p> A. Karnia Ramos Musalem,     Estudio de los forzamientos que generan la surgencia de Yucatán. (2013). Advisors: Jorge Zavala-Hidalgo and Angel Ruiz-Angulo. Currently: Associate Professor in Physical Oceanography, CICESE. </p> 
 
@@ -36,3 +35,7 @@ Icelandinc Meteorological Office
 Rakel María Ellingsen 
 Emil Snorri Árnason
 Kevin Dubois
+
+Universitdad Nacional Autonoma de Mexico 
+Claudio Pierrard, Daniel Robles, Evelin Camacho Soberon, Daniel Ivan Garduño Ruiz
+
