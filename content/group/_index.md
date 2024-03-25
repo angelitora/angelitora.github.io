@@ -32,10 +32,13 @@ description: "not sure what to write here... "
 ### Former Interns 
 
 Icelandinc Meteorological Office
-Rakel María Ellingsen 
-Emil Snorri Árnason
-Kevin Dubois
+<p> Rakel María Ellingsen </p> 
+<p> Emil Snorri Árnason</p> 
+<p> Kevin Dubois</p> 
 
 Universitdad Nacional Autonoma de Mexico 
-Claudio Pierrard, Daniel Robles, Evelin Camacho Soberon, Daniel Ivan Garduño Ruiz
+<p> Claudio Pierrard</p> 
+<p> Daniel Robles</p>  
+<p> Evelin Camacho Soberon</p> 
+<p> Daniel Ivan Garduño Ruiz</p> 
 
