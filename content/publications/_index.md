@@ -4,6 +4,25 @@ description: "Peer-review papers"
 ---
 ### Peer-review papers:
 
+<p>[53] Schmickal, Sarah, Hafliðadóttir, Hafrún Birta, <b>Ruiz-Angulo, Angel</b>, Magnúsdóttir, Hildur, Kristinsdóttir, Íris Mýrdal, Mischke, Steffen. Ostracoda from Hvalfjörður (W Iceland): Diversity, distribution and biomonitoring experiment. Journal of Sea Research, 210, 2026.</p>
+
+<p>[52] Durante, Giovanni, Sheinbaum, Julio, Domínguez-Guadarrama, Alejandro, Jouanno, Julien, Hiron, Luna, Send, Uwe, Verdugo-Ortega, Homar, <b>Ruiz-Angulo, Angel</b>. Frontal-Driven Water-Mass Transformation in a Western Boundary Current: Evidence From the Yucatan Current. Geophysical Research Letters, 53(5), 2026.</p>
+
+<p>[51] Ljungberg, Wilma, Ulfsbo, Adam, Majtényi-Hill, Claudia, <b>Ruiz-Angulo, Angel</b>, Yan Yau, Yvonne Yu, McKenzie, Tristan, Henriksson, Linnea, Böttcher, Michael Ernst, Santos, Isaac R. Glacial Meltwater Impacts Marine Carbonate Chemistry on Iceland's Continental Shelf. Journal of Geophysical Research: Oceans, 131(2), 2026.</p>
+
+<p>[50] Fontaine, N.K., Karrenbach, M., Dallachiesa, L., Ryf, R., Kamalov, V., Williams, E.F., Gunnarsson, A.I., Jonsson, Ö., Hlynsson, A.A., Hlynsson, S., Naik, J., Padmaraju, K., Mistry, A., Winter, D., Chen, H., <b>Ruiz-Angulo, Angel</b>, Hjorleifsdottir, V., Neilson, D.T., Mazur, M. Global Seismic Monitoring Using Multiple Operational Trans-Oceanic Telecommunications Cables. 2025 Optical Fiber Communications Conference and Exhibition (OFC 2025), 2025.</p>
+
+<p>[49] <b>Ruiz-Angulo, Angel</b>, Melgar, Diego, de Marez, Charly, Deniau, Aurélien, Nencioli, Francesco, Hjörleifsdóttir, Vala. SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M 8.8 Kamchatka Earthquake. Seismic Record, 5(4), 341–351, 2025.</p>
+
+<p>[48] de Marez, Charly, Vives, Clara R., Portela Rodriguez, Esther, <b>Ruiz-Angulo, Angel</b>. Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. Journal of Geophysical Research: Oceans, 130(6), 2025.</p>
+
+<p>[47] de Marez, Charly, <b>Ruiz-Angulo, Angel</b>, Gula, Jonathan. Mesoscale Induced Vertical Fluxes Over the Iceland-Faroe Ridge. Geophysical Research Letters, 52(13), 2025.</p>
+
+<p>[46] Ljungberg, Wilma, Yau, Yvonne Y. Y., Cabral, Alex, Majtényi-Hill, Claudia, Henriksson, Linnea, McKenzie, Tristan, <b>Ruiz-Angulo, Angel</b>, Szymczycha, Beata, Dittmar, Thorsten, Ulber, Ina, Santos, Isaac R. Carbon Outwelling and Uptake Along a Tidal Glacier-Lagoon-Ocean Continuum. Journal of Geophysical Research: Biogeosciences, 129(6), 2024.</p>
+
+<p>[45] Gentil, Mathieu, Pallàs-Sanz, Enric, Middleton, Leo, <b>Ruiz-Angulo, Angel</b>, Meunier, Thomas, Durante, Giovanni, Tenreiro, Miguel, Allis Estrada, Sheila N., Sheinbaum, Julio. Distribution, Mixing, and Transformation of a Loop Current Ring Waters: The Case of Gulf of Mexico. Geophysical Research Letters, 51(23), 2024.</p>
+
+
 <p>  [44]   Yu-Sheng Sun, Diego Melgar, <b>Ruiz-Angulo, Angel</b>, Athanassios Ganas, Tuncay Taymaz, Brendan Crowell, Xiaohua Xu, Varvara Tsironi, Ilektra Karasante, Seda Yolsal-Çevikbilen, et al. The 2020 mw 7.0 samos (eastern aegean sea) earthquake: joint source inversion of multi-type data, and tsunami modeling. Geophysical Journal International, page ggae082, 2024.</p>
 <p> [43] Charly de Marez, <b>Ruiz-Angulo, Angel</b>, and Mathieu Le Corre. Structure of the bottom boundary current south of iceland and spreading of deep waters by submesoscale pro- cesses. Geophysical Research Letters, 2024.</p>
 <p> [42] Claudia Inés Rivera-Cárdenas, Oscar E. Jurado, Ruiz-Angulo, Angel, and Josué Arel- lano. Mobile mini-doas measurements of the outflow of nitrogen dioxide from the toluca valley metropolitan area, mexico. Renewable energy, biomass amp; sustainability, 6(1):1–9, January 2024.</p> 
