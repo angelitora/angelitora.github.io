@@ -1,5 +1,6 @@
 ---
 title: "Network-based allocation of responsibility for GHG emissions"
+draft: true
 #date: 2024-01-01
 tags: ["emission responsibility","networks and supply chains","Bonacich centrality"]
 author: ["Rosa van den Ende, Antoine Mandel, Agnieszka Rusinowska (2023)"]
