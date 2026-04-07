@@ -1,6 +1,7 @@
 ---
 title: "Responsibility value on digraphs" 
 #date: 2023-02-01
+menu: false
 tags: ["directed graphs","shapley value","upstream responsibility value"]
 author: ["Rosa van den Ende and Dylan Laplace Mermoud (2023)"]
 description: "[Work in progress] We take a mathematical and cooperative game theoretical approach at an upstream responsibility value." 
